@@ -26,4 +26,3 @@ $config = [
     'http_config' => []   //http配置参数。可参考CurlTools类
 ];
 ```
->>>>>>> init
