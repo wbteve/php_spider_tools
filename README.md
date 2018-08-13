@@ -1,7 +1,5 @@
 # php_spider_tools
-<<<<<<< HEAD
-基于queryList编写的php爬虫工具类
-=======
+
 基于QueryList编写的爬虫工具类，实例化spider类后，调用start方法即可获取抓取的结果
 
 # 参数说明
